@@ -2,7 +2,7 @@
   "name": "hapi-auth-form",
   "version": "0.1.0",
   "description": "Authenticate people using payload parameters",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
