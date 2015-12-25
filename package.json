@@ -1,6 +1,6 @@
 {
   "name": "hapi-auth-form",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Authenticate people using payload parameters",
   "main": "./lib/index.js",
   "scripts": {},
